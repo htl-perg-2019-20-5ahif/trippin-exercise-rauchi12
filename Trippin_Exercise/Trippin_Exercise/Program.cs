@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Net.Http;
+using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
 
@@ -34,7 +35,7 @@ namespace Trippin_Exercise
             return (await client.GetAsync($"People('{person.UserName}')")).IsSuccessStatusCode;
         }
 
-        public static async void AddPerson(Person person)
+        public static async Task<bool> AddPerson(Person person)
         {
             var newPerson = new
             {
@@ -56,7 +57,9 @@ namespace Trippin_Exercise
                     }
                 }
             };
+            var content = new StringContent(JsonSerializer.Serialize(newPerson), Encoding.UTF8, "application/json");
             Console.WriteLine("Added "+person.UserName);
+            return (await client.PostAsync("People", content)).IsSuccessStatusCode;
         }
     }
 }
