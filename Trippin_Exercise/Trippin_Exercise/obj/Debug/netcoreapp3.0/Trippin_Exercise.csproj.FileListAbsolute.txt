@@ -1,0 +1,14 @@
+D:\Schule\5AHIF\Programmieren\C#_MC\HUE\trippin-exercise-rauchi12\Trippin_Exercise\Trippin_Exercise\bin\Debug\netcoreapp3.0\users.json
+D:\Schule\5AHIF\Programmieren\C#_MC\HUE\trippin-exercise-rauchi12\Trippin_Exercise\Trippin_Exercise\bin\Debug\netcoreapp3.0\Trippin_Exercise.exe
+D:\Schule\5AHIF\Programmieren\C#_MC\HUE\trippin-exercise-rauchi12\Trippin_Exercise\Trippin_Exercise\obj\Debug\netcoreapp3.0\Trippin_Exercise.csprojAssemblyReference.cache
+D:\Schule\5AHIF\Programmieren\C#_MC\HUE\trippin-exercise-rauchi12\Trippin_Exercise\Trippin_Exercise\obj\Debug\netcoreapp3.0\Trippin_Exercise.AssemblyInfoInputs.cache
+D:\Schule\5AHIF\Programmieren\C#_MC\HUE\trippin-exercise-rauchi12\Trippin_Exercise\Trippin_Exercise\obj\Debug\netcoreapp3.0\Trippin_Exercise.AssemblyInfo.cs
+D:\Schule\5AHIF\Programmieren\C#_MC\HUE\trippin-exercise-rauchi12\Trippin_Exercise\Trippin_Exercise\bin\Debug\netcoreapp3.0\Trippin_Exercise.deps.json
+D:\Schule\5AHIF\Programmieren\C#_MC\HUE\trippin-exercise-rauchi12\Trippin_Exercise\Trippin_Exercise\bin\Debug\netcoreapp3.0\Trippin_Exercise.runtimeconfig.json
+D:\Schule\5AHIF\Programmieren\C#_MC\HUE\trippin-exercise-rauchi12\Trippin_Exercise\Trippin_Exercise\bin\Debug\netcoreapp3.0\Trippin_Exercise.runtimeconfig.dev.json
+D:\Schule\5AHIF\Programmieren\C#_MC\HUE\trippin-exercise-rauchi12\Trippin_Exercise\Trippin_Exercise\bin\Debug\netcoreapp3.0\Trippin_Exercise.dll
+D:\Schule\5AHIF\Programmieren\C#_MC\HUE\trippin-exercise-rauchi12\Trippin_Exercise\Trippin_Exercise\bin\Debug\netcoreapp3.0\Trippin_Exercise.pdb
+D:\Schule\5AHIF\Programmieren\C#_MC\HUE\trippin-exercise-rauchi12\Trippin_Exercise\Trippin_Exercise\bin\Debug\netcoreapp3.0\Json.Net.dll
+D:\Schule\5AHIF\Programmieren\C#_MC\HUE\trippin-exercise-rauchi12\Trippin_Exercise\Trippin_Exercise\obj\Debug\netcoreapp3.0\Trippin_Exercise.csproj.CopyComplete
+D:\Schule\5AHIF\Programmieren\C#_MC\HUE\trippin-exercise-rauchi12\Trippin_Exercise\Trippin_Exercise\obj\Debug\netcoreapp3.0\Trippin_Exercise.dll
+D:\Schule\5AHIF\Programmieren\C#_MC\HUE\trippin-exercise-rauchi12\Trippin_Exercise\Trippin_Exercise\obj\Debug\netcoreapp3.0\Trippin_Exercise.pdb
